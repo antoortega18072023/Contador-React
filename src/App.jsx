@@ -1,9 +1,15 @@
+import Informacion from "./Components/Informacion"
 
 function App() {
- 
 
   return (
-   <h1>Prueba</h1>
+    <section>
+      <h1>Proyecto de react</h1>
+      <Informacion>
+        
+      </Informacion>
+    </section>
+   
   )
 }
 
